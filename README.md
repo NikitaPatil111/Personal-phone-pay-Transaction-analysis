@@ -1,6 +1,8 @@
 <h1 align="center" id="title">PhonePe Transaction Dashboard (FY 2023-24)</h1>
-
+<h3>Data Privacy Notice
+This project uses personal or confidential data, which cannot be shared publicly due to privacy concerns. As a result, the dataset has been excluded from this repository.</h3>
 <p id="description">
+  
 <h3> Overview </h3>This project involves the creation of an interactive Power BI dashboard analyzing personal PhonePe transactions for the financial year 2023-24. <br>The dashboard provides insights into spending patterns credit and debit transactions and overall financial trends. <br>
 <h3>Tools Used: </h3>
 -Microsoft Excel: Data cleaning and preprocessing 
